@@ -32,8 +32,8 @@ There're also two examples given at the end of the notebook.
 Top recommended movies are "The World's End", 'Gamer', 'Pixels', 'Stay Alive', etc. Those movies are all survival movies and most of the movies involves shooting/action. They are aligned with the game content that players need to fight each other and survive to the last.
 
 ## Contributation
-Data cleaning + parsing: Zhekun Zhang, Micheal Xu
-Description recommendation system: Micheal Xu
-Genre rewarding mechnism: Zhekun Zhang
-Documentation: Zhekun Zhang
-Presentation: Ethan Ma
+* Data cleaning + parsing: Zhekun Zhang, Micheal Xu
+* Description recommendation system: Micheal Xu
+* Genre rewarding mechnism: Zhekun Zhang
+* Documentation: Zhekun Zhang
+* Presentation: Ethan Ma
